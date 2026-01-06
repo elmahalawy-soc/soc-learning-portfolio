@@ -1,4 +1,4 @@
-# SOC Incident Report – SSH Success After Failed Logins
+# SOC Incident Report – SSH Success After Failed Logins 
 
 ## Incident Overview
 Multiple failed SSH authentication attempts were detected from an external source, followed by a successful SSH login. This pattern is indicative of a potential credential compromise via brute-force or password guessing.
